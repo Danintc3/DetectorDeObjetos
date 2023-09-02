@@ -1,0 +1,5 @@
+train: /content/Data/Train/images
+val: /content/Data/Valid/images
+
+nc: 1
+names: ['lego']
